@@ -58,8 +58,9 @@
 * Stack Overflow. (2021). Java Swing. Retrieved from https://stackoverflow.com/questions/tagged/java+swing
 
 ## JavaDoc
+https://github.com/STIA5014-A222-DC222/Group-project/tree/main/src/Javadoc
 
 ## Link following
-https://github.com/STIA5014-A222-DC222/class-activity/issues/3/
+#https://github.com/STIA5014-A222-DC222/class-activity/issues/3/
 -https://github.com/STIA5014-A222-DC222/Group-project/tree/main/src
 
