@@ -20,15 +20,17 @@
 * Link following
 
 ## Flowchart
-![img.png](img.png)
+![img](https://user-images.githubusercontent.com/32948621/232426169-6e6c322c-5480-4d2c-9998-4cc89967e86a.png)
 
 ## UML Class Diagram
-![img_1.png](img_1.png)
+![img_1](https://user-images.githubusercontent.com/32948621/232426199-d084568b-403d-4a1a-9277-0fa00460efdf.png)
 
 ## Screenshot of result/output
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
-![img_4.png](img_4.png)
+![img_2](https://user-images.githubusercontent.com/32948621/232426247-0688a6a7-d97b-4338-85bc-93e766b25ba5.png)
+![img_3](https://user-images.githubusercontent.com/32948621/232426258-a55a23aa-2a1c-410d-b801-b2ed19d83d5c.png)
+![img_4](https://user-images.githubusercontent.com/32948621/232426264-1f0c56e2-e990-48cb-abef-57cfbaa85fec.png)
+
+
 ## Presentation with youtu link
 * https://youtu.be/EQUqfPRsoMo
 
